@@ -1,0 +1,10 @@
+momage=48
+dadage=50
+broage=25
+sisage=30
+myage=11
+print(momage+5)
+print(dadage+5)
+print(broage+5)
+print(sisage+5)
+print(myage+5)
